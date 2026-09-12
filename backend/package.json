@@ -1,0 +1,24 @@
+{
+  "name": "hasi-tuition-backend",
+  "version": "1.0.0",
+  "description": "Hasi Tuition Class Management System — Event-Driven Modular Backend",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "db:migrate": "node src/config/migrate.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "groq-sdk": "^0.5.0",
+    "nodemailer": "^6.9.14",
+    "pg": "^8.12.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

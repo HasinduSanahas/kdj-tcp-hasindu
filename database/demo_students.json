@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1be66268-09ae-4e06-9c3c-60cf02d2ff08",
+    "full_name": "YTP",
+    "email": "mkpasindu69@gmail.com",
+    "phone": "077298272660",
+    "guardian_name": "hh",
+    "guardian_email": "mkpasindu69@gmail.com",
+    "is_active": true,
+    "enrolled_at": "2026-09-12T09:55:08.193Z"
+  },
+  {
+    "id": "08f114b6-96db-4502-84f8-604617399506",
+    "full_name": "Pasindu Kumara",
+    "email": "mkpasindu69@gmail.com",
+    "phone": "0775961945",
+    "guardian_name": "Thanuja",
+    "guardian_email": "mkpasindu69@gmail.com",
+    "is_active": true,
+    "enrolled_at": "2026-09-11T09:46:33.681Z"
+  },
+  {
+    "id": "2e176087-ee45-4e43-89f7-269f258aaf76",
+    "full_name": "Nethmi Silva",
+    "email": "nethmi@example.com",
+    "phone": "0759876543",
+    "guardian_name": "Mrs. Silva",
+    "guardian_email": "parent2@example.com",
+    "is_active": true,
+    "enrolled_at": "2026-09-09T09:46:33.681Z"
+  }
+]
